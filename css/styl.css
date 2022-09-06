@@ -473,6 +473,7 @@ body {
     color: var(--secondary-color);
     letter-spacing: -2px;
     margin-bottom: 15px;
+    /* margin-bottom: 15px; */
 }
 
 .contact .info .link {
